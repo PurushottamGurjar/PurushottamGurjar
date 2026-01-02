@@ -6,12 +6,11 @@
 MERN Stack Developer | DSA Problem Solver | Founder @ Esarthee 🌍
 </h2>
 
-<div align="center"> 
-I’m <b>Purushottam Gurjar</b>, a passionate <b>MERN Stack Developer</b> and <b>DSA enthusiast</b> who has solved <b>1500+ Data Structures & Algorithms problems</b> across <b>LeetCode, GeeksforGeeks, and Codeforces</b>.
-<br><br>
-💻 I enjoy building <b>scalable full-stack web applications</b> while maintaining strong fundamentals in <b>DSA, OOPs, and System Design basics</b>.
-<br><br>
-🚀 I am the <b>Founder of Esarthee</b>, a real-world platform built to solve a practical problem for <b>NIT Warangal students</b> by enabling <b>live location visibility</b> to improve navigation and coordination.
+<div align="left"> 
+I’m <b>Purushottam Gurjar</b>, a passionate <b>MERN Stack Developer</b> and <b>DSA enthusiast</b> who has solved <b>1500+ Data Structures & Algorithms problems</b> across <b>LeetCode, GeeksforGeeks, and Codeforces. </b> 💻 I enjoy building <b>scalable full-stack web applications</b> while maintaining strong fundamentals in <b>DSA, OOPs, and System Design basics.
+<br>
+🚀 I am the <b>Founder of Esarthee</b>, a real-world platform built to solve a practical problem for <b>NIT Warangal students</b> by enabling <b>live location visibility</b> to improve navigation and coordination.🌐 E-Sarthee:  
+<a href="https://esarthee.purushottam.online" target="_blank"><b>https://esarthee.purushottam.online</b></a>
 <br><br>
 🌐 Personal Portfolio:  
 <a href="https://purushottam.online" target="_blank"><b>https://purushottam.online</b></a>
@@ -22,7 +21,7 @@ I’m <b>Purushottam Gurjar</b>, a passionate <b>MERN Stack Developer</b> and <b
 <div align="center"> 
   <a href="mailto:purshottamgurjar.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white"
-         height="55" />
+         height="550px" />
   </a>
   <a href="https://www.linkedin.com/in/purushottam-gurjar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -42,6 +41,9 @@ I’m <b>Purushottam Gurjar</b>, a passionate <b>MERN Stack Developer</b> and <b
 <br/>
 
 <h2 align="center">📊 Coding Profiles</h2>
+<p align="center">
+<b>Solved 1500+ DSA problems on Leetcode, GFG , Codeforces.   • MERN Stack Developer </b>
+</p>
 
 <div align="center">
   <img 
@@ -62,20 +64,14 @@ I’m <b>Purushottam Gurjar</b>, a passionate <b>MERN Stack Developer</b> and <b
 <h2 align="center">🚀 Tools & Technologies</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,react,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,git,github" width="85%"/>
 </div>
 
 <br/>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <a href="https://codolio.com/profile/Purush.dev" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Codolio-Profile-7e15f7?style=for-the-badge&logo=google-chrome&logoColor=white"
-      height="55"
-    />
-  </a>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=PurushottamGurjar&theme=darkhub"
+  />
 </div>
-
-<p align="center">
-<b>Solved 1500+ DSA problems • MERN Stack Developer • Real-world Startup Builder</b>
-</p>
