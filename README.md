@@ -46,9 +46,9 @@ I’m <b>Purushottam Gurjar</b>, a passionate <b>MERN Stack Developer</b> and <b
 <div align="center">
   <img 
     src="https://leetcard.jacoblin.cool/PurushottamGurjar1351?theme=light&font=Inter&ext=contest" 
-    width="415"
+    width="400"
   />
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Purush9983&theme=dark" width="435px" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Purush9983&theme=dark" width="420px" />
 </div>
 
 
