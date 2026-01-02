@@ -22,19 +22,19 @@ I’m <b>Purushottam Gurjar</b>, a passionate <b>MERN Stack Developer</b> and <b
 <div align="center"> 
   <a href="mailto:purshottamgurjar.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white"
-         width="200px" />
+         height="55" />
   </a>
   <a href="https://www.linkedin.com/in/purushottam-gurjar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        width="205px"  />
+         height="55" />
   </a>
   <a href="https://leetcode.com/u/PurushottamGurjar1351/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"
-       width="250px"  />
+         height="55" />
   </a>
   <a href="https://codeforces.com/profile/Purush9983" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=red"
-      width="290px"  />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
+         height="55" />
   </a>
 </div>
 
@@ -46,9 +46,9 @@ I’m <b>Purushottam Gurjar</b>, a passionate <b>MERN Stack Developer</b> and <b
 <div align="center">
   <img 
     src="https://leetcard.jacoblin.cool/PurushottamGurjar1351?theme=light&font=Inter&ext=contest" 
-    width="490"
+    width="455"
   />
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Purush9983&theme=dark" width="510px" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Purush9983&theme=dark" width="475px" />
 </div>
 
 
