@@ -9,10 +9,10 @@ MERN Stack Developer &nbsp;&nbsp; | &nbsp;&nbsp; DSA Problem Solver&nbsp;&nbsp; 
 I’m <b>Purushottam Gurjar</b>, a passionate <b>MERN Stack Developer</b> and <b>DSA enthusiast</b> who has solved <b>1500+ Data Structures & Algorithms problems</b> across <b>LeetCode, GeeksforGeeks, and Codeforces. </b> 💻 I enjoy building <b>scalable full-stack web applications</b> while maintaining strong fundamentals in <b>DSA, OOPs, and System Design basics.
 <br>
 🚀 I am the <b>Founder of Esarthee</b>, a real-world platform built to solve a practical problem for <b>NIT Warangal students</b> by enabling <b>live location visibility</b> to improve navigation and coordination.<br>🌐 E-Sarthee:  
-<a href="https://esarthee.purushottam.online" target="_blank"><b>https://esarthee.purushottam.online</b></a>
+<a href="https://esarthee.purushottamgurjar.online" target="_blank"><b>https://esarthee.purushottamgurjar.online</b></a>
 <br>
 🌐 Personal Portfolio:  
-<a href="https://purushottam.online" target="_blank"><b>https://purushottam.online</b></a>
+<a href="https://purushottamgurjar.online" target="_blank"><b>https://purushottamgurjar.online</b></a>
 </div>
 
 <br />
